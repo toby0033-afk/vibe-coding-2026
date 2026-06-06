@@ -13,27 +13,27 @@
 
 ### 1. 바카라 게임 (Royal Baccarat)
 HTML·CSS·JavaScript로 만든 카드 게임입니다. 베팅과 카드 분배, 승패 판정 로직을 구현했습니다.
-- 폴더: `baccarat/`
+- 🔗 https://glowing-rolypoly-ff73ea.netlify.app
 
 ### 2. 하이로우 게임 (Casino High-Low Gold)
 다음에 나올 카드가 높을지 낮을지 맞히는 카드 게임입니다. 베팅과 연속 정답 보너스 등을 구현했습니다.
-- 폴더: `high-low/`
+- 🔗 https://dapper-cupcake-c7b18d.netlify.app
 
 ### 3. 이름 추첨 프로그램
 참가자 이름을 입력하면 무작위로 당첨자를 뽑아주는 웹 앱입니다.
-- 폴더: `name-draw/`
+- 🔗 https://timely-druid-20cdba.netlify.app
 
 ### 4. 지리 개론서 스터디 문제 풀이
 지리 임용 개론서 학습을 위한 문제 풀이용 HTML 도구입니다. 정답 세팅과 문제 풀이 기능을 담았습니다.
-- 폴더: `geo-study/`
+- 🔗 https://candid-haupia-3435a6.netlify.app
 
 ### 5. llamafile · Ollama 비교 발표
 로컬 LLM 실행 도구인 llamafile과 Ollama의 배포·운영 방식을 비교하고, 소형 로컬 모델의 가능성과 한계를 분석한 발표자료입니다.
-- 폴더: `llamafile-ollama/`
+- 🔗 https://keen-sfogliatella-fdf64b.netlify.app
 
-### 6. Mermaid · 다이어그램 연습
-Mermaid 문법을 활용해 다양한 다이어그램을 작성하는 연습을 정리한 자료입니다.
-- 폴더: `diagram-practice/`
+### 6. Mermaid · 다이어그램 연습 (세종 가계도 · 운전면허 취득 과정)
+세종의 직계 조상 구성도와 1종 보통 운전면허 취득 과정을 Mermaid와 SVG 두 형식으로 작성한 다이어그램입니다.
+- 🔗 https://fantastic-brigadeiros-78d3ee.netlify.app
 
 ## 👤 작성자
 김지원 (사회과교육과 지리교육전공, 22)
