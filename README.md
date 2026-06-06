@@ -29,7 +29,7 @@ HTML·CSS·JavaScript로 만든 카드 게임입니다. 베팅과 카드 분배,
 
 ### 5. llamafile · Ollama 비교 발표
 로컬 LLM 실행 도구인 llamafile과 Ollama의 배포·운영 방식을 비교하고, 소형 로컬 모델의 가능성과 한계를 분석한 발표자료입니다.
-- 🔗 https://keen-sfogliatella-fdf64b.netlify.app
+- 🔗 https://creative-boba-ac0dd0.netlify.app
 
 ### 6. Mermaid · 다이어그램 연습 (세종 가계도 · 운전면허 취득 과정)
 세종의 직계 조상 구성도와 1종 보통 운전면허 취득 과정을 Mermaid와 SVG 두 형식으로 작성한 다이어그램입니다.
