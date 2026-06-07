@@ -37,6 +37,3 @@ HTML·CSS·JavaScript로 만든 카드 게임입니다. 베팅과 카드 분배,
 
 ## 👤 작성자
 김지원 (사회과교육과 지리교육전공, 22)
-
- git add . git commit -m Update README.md git push https://toby0033-afk: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@github.com/toby0033-afk/vibe-coding-2026.git main
-
